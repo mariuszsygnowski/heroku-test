@@ -2,6 +2,7 @@
   "name": "opieka-osob-starszych",
   "version": "1.0.0",
   "description": "Opieka osób starszych",
+  "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
