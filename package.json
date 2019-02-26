@@ -4,7 +4,7 @@
   "description": "Opieka osób starszych",
   "scripts": {
     "dev": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production --display-modules",
+    "build": "webpack --mode production",
     "heroku-postbuild": "npm run build"
   },
   "author": "",
