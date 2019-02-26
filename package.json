@@ -8,7 +8,7 @@
     "build": "webpack --mode production",
     "heroku-postbuild": "npm run build"
   },
-  "author": "",
+  "author": "A",
   "license": "ISC",
   "babel": {
     "presets": [
